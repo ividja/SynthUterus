@@ -2,7 +2,7 @@
 
 ## Overview
 
-SynthUterus is a research framework for generating anatomically realistic synthetic uterine MRI scans using diffusion models. The project addresses the critical shortage of publicly available pelvic MRI datasets, which limits the development of reliable AI tools for gynaecological imaging.
+SynthUterus is a framework for generating anatomically realistic synthetic uterine MRI scans using diffusion models. The project addresses the critical shortage of publicly available pelvic MRI datasets, which limits the development of reliable AI tools for gynaecological imaging.
 
 By leveraging Denoising Diffusion Probabilistic Models (DDPMs) and Latent Diffusion Models (LDMs), we generate high-quality 2D and 3D uterine MRI images that can be used for data augmentation, clinical education, and downstream machine learning tasks such as anatomical classification.
 
