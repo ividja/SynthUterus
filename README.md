@@ -6,6 +6,8 @@ SynthUterus is a research framework for generating anatomically realistic synthe
 
 By leveraging Denoising Diffusion Probabilistic Models (DDPMs) and Latent Diffusion Models (LDMs), we generate high-quality 2D and 3D uterine MRI images that can be used for data augmentation, clinical education, and downstream machine learning tasks such as anatomical classification.
 
+![Uteri in four orientations, ROI-cropped](./readme/uteri.png)
+
 ---
 
 ## Motivation
