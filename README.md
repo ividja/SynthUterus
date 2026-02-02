@@ -94,3 +94,25 @@ Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
 For questions or collaboration, please contact the authors.
+
+## Citation
+
+```
+@InProceedings{10.1007/978-3-032-05825-6_9,
+author="M{\"u}ller, Johanna P.
+and Knupfer, Anika
+and Bl{\"o}ss, Pedro
+and Vittur, Edoardo Berardi
+and Kainz, Bernhard
+and Hutter, Jana",
+title="Diffusing the Blind Spot: Uterine MRI Synthesis with Diffusion Models",
+booktitle="Skin Image Analysis, and Computer-Aided Pelvic Imaging for Female Health",
+year="2026",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="93--102",
+isbn="978-3-032-05825-6"
+}
+```
+
+
